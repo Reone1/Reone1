@@ -15,6 +15,6 @@ React를 이용해 프론트엔드(Front-end)개발을 하고있는 **최재원*
 - Tool : Notion, Slack, zeplin
 - Utility : Typescript, jest
 - Well : React, NodeJs, styled-comopnents, redux, redux-thunk
-- Learn : DevObs, chartJS,
-- Interested : Micro-service, 
+- Learn : DevObs, ag-grid,
+- Interested : Micro-service, goLang
 
