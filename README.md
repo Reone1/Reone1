@@ -11,9 +11,9 @@ React를 이용해 프론트엔드(Front-end)개발을 하고있는 **최재원*
  
 ## Stack
 
-- Language : Javascript
-- Tool : Notion, Slack, zeplin
-- Utility : Typescript, jest
+- Language : Javascript, Typescript
+- Tool : Notion, Slack, 
+- Testing :  zeplin, jest
 - Well : React, NodeJs, styled-comopnents, redux, redux-thunk
 - Learn : DevObs, ag-grid,
 - Interested : Micro-service, goLang
