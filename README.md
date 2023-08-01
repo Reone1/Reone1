@@ -2,7 +2,7 @@
 
 안녕하세요.
 
-React를 이용해 프론트엔드(Front-end)개발을 하고있는 **최재원** 입니다.
+React를 이용해 Nodejs 기반개발을 하고있는 **최재원** 입니다.
 Service Interface에 관심이 있고, 효율적인 기능을 구현하기 위해 노력합니다.
 
 ## 저는 이런 사람 입니다.
@@ -13,9 +13,10 @@ Service Interface에 관심이 있고, 효율적인 기능을 구현하기 위�
 ## Stack
 
 - Language : Javascript, Typescript
-- Tool : Notion, Slack, 
-- Testing :  zeplin, jest
-- Well : React, NodeJs, styled-comopnents, redux, redux-thunk
-- Learn : DevObs, ag-grid,
-- Interested : Micro-service, goLang
+- Testing : jest, cypress
+- Well : React, NodeJs, styled-comopnents, redux, recoil, nextjs, nestjs, mongoDB (mongoose)
+- knowledge: redix, nginx, docker, AWS
+- Learn : DevObs, k8s
+- Interested : MSA, goLang, AWS
+- Tool : Notion, Slack, zeplin, Jira, github, gitlab
 
