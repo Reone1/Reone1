@@ -16,7 +16,7 @@ Service Interface에 관심이 있고, 효율적인 기능을 구현하기 위�
 - Testing : jest, cypress
 - Well : React, NodeJs, styled-comopnents, redux, recoil, nextjs, nestjs, mongoDB (mongoose)
 - knowledge: redix, nginx, docker, AWS
-- Learn : DevObs, k8s
+- Learn : DevOps, k8s
 - Interested : MSA, goLang, AWS
 - Tool : Notion, Slack, zeplin, Jira, github, gitlab
 
