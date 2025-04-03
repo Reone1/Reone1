@@ -24,12 +24,10 @@ golang을 주로 사용하고 개발 문화 및 조직 관리에 관심이 있�
   argoCD, prometheus, grafana, cluster-autoscaler, vpa, hpa등 k8s관련 오픈소스를 사용한 경험이 있습니다.
  
 ## Software-Stack
-
 - Language : Javascript, Typescript, golang
 - Testing : jest, cypress
 - Well : React, NodeJs, styled-comopnents, redux, recoil, nextjs, nestjs, mongoDB (mongoose)
-- knowledge: redux, nginx, docker, AWS
-- Learn : DevOps, k8s
-- Interested : MSA, goLang, AWS
-- Tool : Notion, Slack, zeplin, Jira, github, gitlab
+ 
+## Tool
+- Notion, Slack, zeplin, Jira, github, gitlab
 
